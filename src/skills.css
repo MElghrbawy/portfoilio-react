@@ -1,0 +1,19 @@
+.wrapper
+{
+    
+    background-color: rgb(36, 36, 36);
+    padding:20px;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    gap:10px;
+    flex-wrap: wrap;
+    overflow: hidden;
+    
+}
+
+.skills
+{
+    text-shadow: 2px 2px 5px black;
+}
+

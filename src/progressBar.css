@@ -1,0 +1,36 @@
+progress {
+    opacity: 0;
+  }
+
+  .progress-container {
+    position: relative;
+    display: inline-block;
+    background: #eee;
+    height: 5vh;
+    width: 30vw;
+    overflow: hidden;
+  }
+
+
+  .progress-container::before {
+    content: "";
+    position: absolute; 
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 90%;
+    background: rgb(194, 194, 194);
+  }
+
+  .progress-container::after {
+    content: "HTML";
+    color: white;
+    text-align: center;
+    padding:10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 20%;
+    background: rgb(122, 122, 122);
+  }

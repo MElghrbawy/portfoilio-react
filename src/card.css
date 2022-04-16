@@ -1,0 +1,14 @@
+.portCard
+{
+    width: 25vw;
+    height: 25vh;
+    background-color: rgb(82, 82, 82);
+    box-shadow: 5px 6px 6px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+   
+
+}
