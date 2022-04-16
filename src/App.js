@@ -4,11 +4,11 @@ import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
 
 
-import HeroSection from './hero';
-import About from './about'
-import Skills from './skills'
-import Footer from './footer'
-import Portfolio from './portfolio'
+import HeroSection from './components/hero';
+import About from './components/about'
+import Skills from './components/skills'
+import Footer from './components/footer'
+import Portfolio from './components/portfolio'
 
 function App() {
   return (

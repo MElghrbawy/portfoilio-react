@@ -55,7 +55,7 @@
     .hero{
 
         background-image: url(
-            ../public/wallpaper.jpg
+            ../../../public/wallpaper.jpg
             );
             background-repeat: no-repeat;
             background-size: 100%;
