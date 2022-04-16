@@ -23,7 +23,7 @@ class Footer extends React.Component {
         </p>
         <div>
         <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
-        <span>  mohamed.elghrbawy@gmail.com</span>
+        <span>  mohamed.elghrbawy@gmail10.com</span>
         </div>
         <div>
         <FontAwesomeIcon icon={faBlender}></FontAwesomeIcon>
